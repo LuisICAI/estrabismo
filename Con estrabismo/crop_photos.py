@@ -7,6 +7,11 @@ bbox = (25, 25, 1710, 1710)
 # Crop the sub-image
 image = image.crop(bbox)
 image.save('prueba.jpg')
+left = 0
+upper = 0
+right = left + 550
+lower = upper + 1370
+
 
 # Define the size of each sub-image
 sub_image_width = image.width // 3
