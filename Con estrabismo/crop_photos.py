@@ -1,11 +1,12 @@
 from PIL import Image
 
 # Load the image
-photo = 1416
+photo = 1713 # 1647, 1651, 1665, 1705, 1709, 1712, 1713
 image = Image.open('Con estrabismo\IMG_{}.JPG'.format(photo))
-bbox = (34, 34, 1642, 1633)
+bbox = (25, 25, 1710, 1710)
 # Crop the sub-image
 image = image.crop(bbox)
+image.save('prueba.jpg')
 
 # Define the size of each sub-image
 sub_image_width = image.width // 3
