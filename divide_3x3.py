@@ -1,23 +1,17 @@
 from PIL import Image
 
 # Load the image
-photo = 1713 # 1647, 1651, 1665, 1705, 1709, 1712, 1713
-image = Image.open('Con estrabismo\IMG_{}.JPG'.format(photo))
-bbox = (25, 25, 1710, 1710)
+image = Image.open(r'C:\Users\luisz\Master\NoEstructurados\estrabismo\nuevas fotos\estrab4.JPG')
+bbox = (10, 0, image.width-10, image.height-10)
 # Crop the sub-image
 image = image.crop(bbox)
 image.save('prueba.jpg')
-left = 0
-upper = 0
-right = left + 550
-lower = upper + 1370
-
 
 # Define the size of each sub-image
 sub_image_width = image.width // 3
 sub_image_height = image.height // 3
 
-margin = 7
+margin = 10
 # Loop over each row and column in the grid
 for row in range(3):
     for col in range(3):
@@ -29,8 +23,8 @@ for row in range(3):
         bbox = (left+margin, upper+margin, right-margin, lower-margin)
         
         # Crop the sub-image
-        sub_image = image.crop(bbox)
+        sub_image = image.crop(bbox).resize((1370, 550))
         
         # Save the sub-image with a unique filename
-        filename = f'Con estrabismo\crop\{photo}_{row}_{col}.jpg'
+        filename = f'.tmp\{2}{row}{col}.jpg'
         sub_image.save(filename)
