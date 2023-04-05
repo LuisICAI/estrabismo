@@ -14,10 +14,16 @@ def main():
 
     # reading photos from path
     else:
-        path_photos = "photos/negative/"
+        print('No photos given. Reading photos from path.')
+        path_photos = input('Path to photos: ')
         paths = [os.path.join(path_photos, p) for p in os.listdir(path_photos)]
     
-    model = load_model('/home/pabloperez/Desktop/Version1.h5')
+    # load model
+    try:
+        model = load_model('Version1.h5')
+    except:
+        print('Model not found. Please, provide the path to the model.')
+        model = load_model(input('Path to model: '))
 
     output = []
     for path in paths:
@@ -33,8 +39,7 @@ def main():
     with open('output.json', 'w') as f:
         json.dump(output, f)
     print('output.json saved')
-    
-        
+            
     return
 
 if __name__ == '__main__':
