@@ -1,0 +1,12 @@
+[
+    {
+        "path": "prueba2.png",
+        "positive_prob": 0.2384332206534292,
+        "positive": false
+    },
+    {
+        "path": "photos/negative/000.png",
+        "positive_prob": 0.5000573145701104,
+        "positive": true
+    }
+]
