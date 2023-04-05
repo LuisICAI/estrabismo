@@ -56,9 +56,9 @@ python main.py
 
 ## Authors
 
-* **Luis Zaldivar Lobato**
-* **Pablo Pérez González-Alberto**
 * **Andrés Canalejo Oliva**
+* **Pablo Pérez González-Alberto**
+* **Luis Zaldivar Lobato**
 
 
 
