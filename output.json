@@ -1,12 +1,682 @@
 [
-    {
-        "path": "prueba2.png",
-        "positive_prob": 0.2384332206534292,
-        "positive": false
-    },
-    {
-        "path": "photos/negative/000.png",
-        "positive_prob": 0.5000573145701104,
-        "positive": true
-    }
+      {
+            "path": "photos/negative/033.png",
+            "positive_prob": 0.28593987226486206,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/055.png",
+            "positive_prob": 0.015844209119677544,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/048.png",
+            "positive_prob": 0.06273815780878067,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/054_b.png",
+            "positive_prob": 0.024383196607232094,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/018_b.png",
+            "positive_prob": 0.1129772737622261,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/058_b.png",
+            "positive_prob": 0.014156998135149479,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/026.png",
+            "positive_prob": 0.1415427178144455,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/035_b.png",
+            "positive_prob": 0.06532130390405655,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/027_b.png",
+            "positive_prob": 0.04399627074599266,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/017_b.png",
+            "positive_prob": 0.049760427325963974,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/016.png",
+            "positive_prob": 0.02748008631169796,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/003.png",
+            "positive_prob": 0.002533435821533203,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/019.png",
+            "positive_prob": 0.15326103568077087,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/006.png",
+            "positive_prob": 0.014057479798793793,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/048_b.png",
+            "positive_prob": 0.24919098615646362,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/035.png",
+            "positive_prob": 0.152337908744812,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/059.png",
+            "positive_prob": 0.014599614776670933,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/011.png",
+            "positive_prob": 0.3961259126663208,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/058.png",
+            "positive_prob": 0.016209889203310013,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/053.png",
+            "positive_prob": 0.09147980064153671,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/014_b.png",
+            "positive_prob": 0.05747147276997566,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/034.png",
+            "positive_prob": 0.10576726496219635,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/021.png",
+            "positive_prob": 0.49888312816619873,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/063.png",
+            "positive_prob": 0.2580356299877167,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/037_b.png",
+            "positive_prob": 0.05242919921875,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/008.png",
+            "positive_prob": 0.021519992500543594,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/034_b.png",
+            "positive_prob": 0.32174229621887207,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/013_b.png",
+            "positive_prob": 0.0020729009993374348,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/017.png",
+            "positive_prob": 0.021718941628932953,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/051.png",
+            "positive_prob": 0.06457296758890152,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/043.png",
+            "positive_prob": 0.02426714077591896,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/041_b.png",
+            "positive_prob": 0.8396821022033691,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/028.png",
+            "positive_prob": 0.15952925384044647,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/002.png",
+            "positive_prob": 0.003715614089742303,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/062.png",
+            "positive_prob": 0.5381852388381958,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/036_b.png",
+            "positive_prob": 0.4236152172088623,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/009_b.png",
+            "positive_prob": 0.02032495103776455,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/020.png",
+            "positive_prob": 0.5949351191520691,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/046_b.png",
+            "positive_prob": 0.6496859788894653,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/031_b.png",
+            "positive_prob": 0.6412147879600525,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/042_b.png",
+            "positive_prob": 0.10674332827329636,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/049_b.png",
+            "positive_prob": 0.6514608263969421,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/023_b.png",
+            "positive_prob": 0.06467466801404953,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/055_b.png",
+            "positive_prob": 0.062005359679460526,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/024.png",
+            "positive_prob": 0.03394433483481407,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/026_b.png",
+            "positive_prob": 0.3434985280036926,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/000.png",
+            "positive_prob": 0.9299857020378113,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/005.png",
+            "positive_prob": 0.5336325168609619,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/008_b.png",
+            "positive_prob": 0.01599021442234516,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/066_b.png",
+            "positive_prob": 0.012575572356581688,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/007.png",
+            "positive_prob": 0.16076914966106415,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/016_b.png",
+            "positive_prob": 0.030638007447123528,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/036.png",
+            "positive_prob": 0.16747380793094635,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/011_b.png",
+            "positive_prob": 0.16778412461280823,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/064_b.png",
+            "positive_prob": 0.2452153116464615,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/052_b.png",
+            "positive_prob": 0.12432621419429779,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/013.png",
+            "positive_prob": 0.0036332150921225548,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/045_b.png",
+            "positive_prob": 0.18854501843452454,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/012_b.png",
+            "positive_prob": 0.003742772154510021,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/004.png",
+            "positive_prob": 0.10060656070709229,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/024_b.png",
+            "positive_prob": 0.1900666207075119,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/022_b.png",
+            "positive_prob": 0.15226727724075317,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/046.png",
+            "positive_prob": 0.5812479853630066,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/030.png",
+            "positive_prob": 0.2511550784111023,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/031.png",
+            "positive_prob": 0.8158374428749084,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/044.png",
+            "positive_prob": 0.2504696547985077,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/050.png",
+            "positive_prob": 0.01441250741481781,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/033_b.png",
+            "positive_prob": 0.2320866882801056,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/044_b.png",
+            "positive_prob": 0.40983718633651733,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/051_b.png",
+            "positive_prob": 0.024687986820936203,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/020_b.png",
+            "positive_prob": 0.8533250093460083,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/047.png",
+            "positive_prob": 0.3251315653324127,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/004_b.png",
+            "positive_prob": 0.17242904007434845,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/038_b.png",
+            "positive_prob": 0.180399090051651,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/061_b.png",
+            "positive_prob": 0.7197269797325134,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/014.png",
+            "positive_prob": 0.06791382282972336,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/000_b.png",
+            "positive_prob": 0.9988849759101868,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/037.png",
+            "positive_prob": 0.1518312245607376,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/030_b.png",
+            "positive_prob": 0.4574825167655945,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/040.png",
+            "positive_prob": 0.13774079084396362,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/065.png",
+            "positive_prob": 0.22207260131835938,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/005_b.png",
+            "positive_prob": 0.9824725389480591,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/001_b.png",
+            "positive_prob": 0.5754174590110779,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/023.png",
+            "positive_prob": 0.03093857131898403,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/040_b.png",
+            "positive_prob": 0.317386656999588,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/053_b.png",
+            "positive_prob": 0.05727081373333931,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/059_b.png",
+            "positive_prob": 0.010279123671352863,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/029.png",
+            "positive_prob": 0.24995116889476776,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/001.png",
+            "positive_prob": 0.878206193447113,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/002_b.png",
+            "positive_prob": 0.006115186493843794,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/027.png",
+            "positive_prob": 0.12352216988801956,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/043_b.png",
+            "positive_prob": 0.0248945951461792,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/042.png",
+            "positive_prob": 0.041178908199071884,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/064.png",
+            "positive_prob": 0.15643325448036194,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/025_b.png",
+            "positive_prob": 0.037836264818906784,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/015_b.png",
+            "positive_prob": 0.39941880106925964,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/062_b.png",
+            "positive_prob": 0.16880206763744354,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/050_b.png",
+            "positive_prob": 0.03266523778438568,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/038.png",
+            "positive_prob": 0.37589505314826965,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/032.png",
+            "positive_prob": 0.10476451367139816,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/029_b.png",
+            "positive_prob": 0.12566067278385162,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/065_b.png",
+            "positive_prob": 0.08998248726129532,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/057_b.png",
+            "positive_prob": 0.1667155772447586,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/060_b.png",
+            "positive_prob": 0.697010338306427,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/057.png",
+            "positive_prob": 0.13207465410232544,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/007_b.png",
+            "positive_prob": 0.06774623692035675,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/003_b.png",
+            "positive_prob": 0.001085694064386189,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/060.png",
+            "positive_prob": 0.5335991978645325,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/052.png",
+            "positive_prob": 0.08926483988761902,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/054.png",
+            "positive_prob": 0.010336588136851788,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/022.png",
+            "positive_prob": 0.02597557008266449,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/010.png",
+            "positive_prob": 0.03575904294848442,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/049.png",
+            "positive_prob": 0.9808928966522217,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/039_b.png",
+            "positive_prob": 0.06955349445343018,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/056_b.png",
+            "positive_prob": 0.07543697208166122,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/019_b.png",
+            "positive_prob": 0.06533696502447128,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/047_b.png",
+            "positive_prob": 0.17583684623241425,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/039.png",
+            "positive_prob": 0.18672703206539154,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/061.png",
+            "positive_prob": 0.6328995823860168,
+            "positive": true
+      },
+      {
+            "path": "photos/negative/015.png",
+            "positive_prob": 0.23377953469753265,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/041.png",
+            "positive_prob": 0.3338300585746765,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/032_b.png",
+            "positive_prob": 0.24880225956439972,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/021_b.png",
+            "positive_prob": 0.3608098328113556,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/067.png",
+            "positive_prob": 0.01340760663151741,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/066.png",
+            "positive_prob": 0.007646486163139343,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/025.png",
+            "positive_prob": 0.14027707278728485,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/006_b.png",
+            "positive_prob": 0.017045142129063606,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/028_b.png",
+            "positive_prob": 0.35921570658683777,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/010_b.png",
+            "positive_prob": 0.21660694479942322,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/063_b.png",
+            "positive_prob": 0.4925628900527954,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/056.png",
+            "positive_prob": 0.1946222484111786,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/018.png",
+            "positive_prob": 0.03287828713655472,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/012.png",
+            "positive_prob": 0.004041396547108889,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/009.png",
+            "positive_prob": 0.05614017695188522,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/067_b.png",
+            "positive_prob": 0.006031878292560577,
+            "positive": false
+      },
+      {
+            "path": "photos/negative/045.png",
+            "positive_prob": 0.3056456446647644,
+            "positive": false
+      }
 ]
