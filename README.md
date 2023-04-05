@@ -49,6 +49,11 @@ python main.py img.png img2.png
 python main.py
 ```
 
+## Next Steps
+
+1. To train the model with more data. Our sample is too small
+2. Integrate an eye detection model. With that we could use the model with a photo of a full face instead of only an eye.
+
 ## Authors
 
 * **Luis Zaldivar Lobato**
