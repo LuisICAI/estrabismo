@@ -1,8 +1,8 @@
 # Can Convolutional Neural Networks help with the detection of sagging eye syndrome?
 
-The following project aims to investigate the potential of Convolutional Neural Networks (CNNs) to assist in the detection of Sagging Eye Syndrome (SES), a prevalent eye disorder that affects the elderly population. SES arises due to the weakening of the muscles that are responsible for elevating the eyelids, leading to drooping of the upper eyelid and causing an indentation in the upper eyelid area. 
+The following project aims to investigate the potential of Convolutional Neural Networks (CNNs) to assist in the detection of Sagging Eye Syndrome (SES), a prevalent eye disorder that affects the elderly population. SES arises due to the degeneration of the lateral rectus-superior rectus band, leading to a cyclovertical strabismus. Patients with SES have distinctive features, such as baggy eyelids, deep superior sulcus deformity and aponerurotic ptosis.  
 
-The project involves the collection of front view images of the human eye from individuals with age-associated strabismus and those without any ocular syndrome. The acquisition of a large dataset of images enables us to compare and analyze the differences between the two groups. By employing CNNs, we aim to enhance the accuracy of detecting age-associated strabismus.
+The project involves the collection of front view images of the human eye from individuals with SES and those without any strabismus. The acquisition of a large dataset of images enables us to compare and analyze the differences between the two groups. By employing CNNs, we aim to enhance the accuracy of detecting age-associated strabismus.
 
 ### Prerequisites
 
